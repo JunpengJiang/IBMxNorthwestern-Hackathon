@@ -1,4 +1,4 @@
-# IBMxNorthwestern-Hackathon
+# IBM x Northwestern Quantum Computing Hackathon
 
 ### Team Members: Allen Xu, Dunyeng Huh, Hao Xu, Marshall Jiang
 ### Project Name: Gender Inequality in Workplace
