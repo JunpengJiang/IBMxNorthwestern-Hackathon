@@ -1,0 +1,26 @@
+data_raw
+----------------
+Response
+(1:My gender has made it harder for me to succeed in my job, 2:My gender has not made much difference in my job, 3:My gender has made it easier for me to succeed in my job)
+
+
+Gender
+('Male' = 0, 'Female' = 1)
+
+Age
+("Under 18" = 0, "18-24" = 1/7, "25-34" = 2/7, "35-44" = 3/7, "45-54" = 4/7, "55-64" = 5/7, "65-74" = 6/7, "75+" = 1)
+
+Education
+('High school graduate or less' = 0 ,'Some college, including Associate degree' = 1/3,'Bachelors degree' = 2/3, 'Masters, Professional or Doctorate Degree' = 1)
+
+Income
+('Less than $30,000' = 0, '$30,000 to $49,999' = 1/4, '$50,000 to $74,999' = 2/4, '$75,000 to $99,999' = 3/4, '$100,000 or more' = 1)
+
+Race_White/Black/Asian
+('No' = 0, 'Yes' = 1)
+
+Stem
+('no stem degree' = 0, 'at least 1 stem degree' = 1)
+
+Employment
+('not employed' = 0, 'employed' = 1)
