@@ -1,0 +1,18 @@
+data_raw
+----------------
+Gender
+(0:Male, 1:Female)
+Race
+(1:White, 2:Black, 3:Asian, 4:Others)
+Age
+(1:Under 18, 2: 18-24, 3:25-34, 4:35-44, 5:45-54, 6:55-64, 7:65-74, 8:75+)
+Income
+(1: < $30000, 2: $30000 ~ $49999, 3: $50000 ~ $74999, 4:$75000 ~ $99999, 5: $100000 + )
+Location
+(1:Northeast, 2: Midwest, 3: South, 4: West)
+Stem
+(0:no stem degree, 0.00001: no information, refuse to answer, 1: at least 1 stem degree)
+Education
+(1:High school graduate or less ,2:Some college, including Associate degree,3:Bachelors degree, 4:Masters, Professional or Doctorate Degree)
+Response
+(1:My gender has made it harder for me to succeed in my job, 2:My gender has not made much difference in my job, 3:My gender has made it easier for me to succeed in my job)
